@@ -184,7 +184,6 @@ function overallAnimation() {
         scale:0.8,
         opacity: 0,
         duration:1,
-        stagger:.5,
         delay:0.5,
         scrollTrigger:{
           trigger:"#page2",
